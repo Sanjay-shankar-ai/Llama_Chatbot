@@ -12,7 +12,7 @@ llm = ChatGroq(
 st. set_page_config(layout="wide")
 
 # Streamlit App Title
-st.title("Get Your Queries Resolved")
+st.title("Llama Chatbot - Get Your Queries Resolved")
 st.caption("Powered by Llama 3.1")
 
 # Initialize session state to store past interactions
