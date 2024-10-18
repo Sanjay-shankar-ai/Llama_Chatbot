@@ -1,6 +1,9 @@
 # Llama_Chatbot
 powered by 3.1
 
+## Website Link
+https://llamachatbot-genai.streamlit.app/
+
 ## Overview
 
 The Llama Chatbot is an interactive web application built with Streamlit, powered by the Llama 3.1 model using LangChain's ChatGroq. This chatbot allows users to ask questions and receive AI-generated responses based on their queries, making it a useful tool for quick information retrieval.
@@ -19,9 +22,3 @@ The Llama Chatbot is an interactive web application built with Streamlit, powere
 - LangChain library
 - Access to the ChatGroq API with a valid API key
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository_url>
-   cd llama-chatbot
